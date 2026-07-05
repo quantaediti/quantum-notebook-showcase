@@ -21,3 +21,5 @@ Quantum Notebook is an AI-powered research platform built to help students, rese
 - Vite
 
 > The production source code remains private while this repository showcases the project.
+
+<img width="1920" height="845" alt="homepage" src="https://github.com/user-attachments/assets/187a10a1-94f7-4fa3-8602-3df6b516615d" />
