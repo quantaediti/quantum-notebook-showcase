@@ -28,9 +28,10 @@ Quantum Notebook is an AI-powered research platform built to help students, rese
 
 <img width="1920" height="845" alt="QuantumLab" src="https://github.com/user-attachments/assets/664bdc4b-d03a-47db-a4e0-988445d4a0cb" />
 
-<img width="1821" height="845" alt="Dashboard" src="https://github.com/user-attachments/assets/b6ccfe7d-80a0-49c5-ab2f-0a203f183f2b" />
+<img width="1661" height="845" alt="Dashboard (1)" src="https://github.com/user-attachments/assets/a8a6d0a1-7233-4a8f-8a19-91724e05cb39" />
 
-<img width="1821" height="845" alt="NotesNode" src="https://github.com/user-attachments/assets/c30aff25-9f19-4197-9032-e92cf6e4b1af" />
+<img width="1792" height="845" alt="NotesNode (1)" src="https://github.com/user-attachments/assets/78ba02af-780d-4047-9690-9f9efd9a4a73" />
+
 
 
 
